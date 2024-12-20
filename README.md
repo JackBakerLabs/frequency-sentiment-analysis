@@ -4,7 +4,7 @@ A streamlit app that reads and analyses a text blob from an excel file returning
 FUnctions of App
 1) Read .xl document and change to csv. Difficulty: * - tick
 2) Extract and store text from cells Difficulty: **
-3) CLean and prepare text (Correct spelling and grammar) Difficulty: **
+3) Clean and prepare text (Correct spelling and grammar) Difficulty: **
 4) Get Word frequency counts (ex connectives and regualr nouns) Difficulty: **
 5) Use model to get sentiment analysis on text Difficulty: ***
 6) Parse Frequrncy ouptu to graph Difficulty: *
